@@ -1,1 +1,1 @@
-FROM node:gallium
+FROM node:gallium@sha256:64e8bcdfdad6718050801a2639f7e6645fdaf85ec37a98cdb61f6a5331217618
