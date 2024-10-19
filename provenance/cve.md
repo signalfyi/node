@@ -1,0 +1,10 @@
+## Dockerfile
+
+### Docker Image: node:gallium
+| Severity | Count |
+|----------|-------|
+| medium | 1437 |
+| high | 1065 |
+| critical | 30 |
+| low | 29 |
+| Unknown | 4 |
